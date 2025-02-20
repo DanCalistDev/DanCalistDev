@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Tenho 1 ano e meio de experiência na área de desenvolvimento de software. Minha jornada começou com um projeto freelancer em parceria com amigos, que me permitiu dar meus primeiros passos na programação.
+- 👨🏻‍💻 &nbsp; Tenho 2 anos e meio de experiência na área de desenvolvimento de software. Minha jornada começou com um projeto freelancer em parceria com amigos, que me permitiu dar meus primeiros passos na programação.
 Cerca de 5 a 6 meses depois, conquistei minha primeira posição como Desenvolvedor Júnior em uma empresa responsável pela monitoria de frotas de ônibus em São Paulo, onde estou atualmente.
 Embora tenha sido contratado inicialmente para trabalhar com React, enfrentei muitos desafios e tive a oportunidade de trabalhar com diversas tecnologias, como Node.js, Java, PostgreSQL, GCP e outras. Essa experiência foi incrível e me proporcionou uma compreensão abrangente de todo o processo de desenvolvimento de software.
 Hoje, me considero um desenvolvedor Full Stack, trabalhando tanto no back-end com Node.js quanto no front-end com React.
